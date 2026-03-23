@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iamdedha
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me sumitkumarps29@gmail.com/ 9999686620
 
 <!---
